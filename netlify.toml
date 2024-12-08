@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  status = 301
+  to = "https://www.netlify.com/"
